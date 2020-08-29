@@ -1,3 +1,4 @@
+# 如果你需要用此文件运行，该文件需要Python3.8和Tkinter库。
 import tkinter, tkinter.filedialog, tkinter.messagebox
 from functools import partial
 # 创建主窗口
