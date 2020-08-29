@@ -48,6 +48,3 @@ button1.pack()
 button = tkinter.Button(win, text="开始", command=run, width=10, height=1)
 button.pack()
 win.mainloop()
-
-
-
